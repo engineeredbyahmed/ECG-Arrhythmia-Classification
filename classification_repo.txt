@@ -1,0 +1,35 @@
+ECG Arrhythmia Classification - Best Performing Model (Model 3)
+==============================================================
+
+Classification Report
+
+              Precision    Recall    F1-Score    Support
+
+Class 0          0.99       0.96       0.97       18118
+Class 1          0.58       0.73       0.64         556
+Class 2          0.88       0.90       0.89        1448
+Class 3          0.37       0.91       0.53         162
+Class 4          0.96       0.96       0.96        1608
+
+--------------------------------------------------------------
+Accuracy                                0.95       21892
+
+Macro Average     0.76       0.89       0.80       21892
+
+Weighted Average  0.96       0.95       0.96       21892
+--------------------------------------------------------------
+
+Summary
+-------
+Overall Accuracy: 95%
+
+Macro F1-Score: 0.80
+Weighted F1-Score: 0.96
+
+Key Observations:
+- The model achieved excellent overall performance with 95% accuracy.
+- Class 0 (Normal Beat) was classified with very high precision and recall.
+- Class 2 and Class 4 also achieved strong performance.
+- Class 3 achieved high recall (0.91), indicating successful detection of most instances.
+- However, Class 3 exhibited low precision (0.37), suggesting a high number of false positives.
+- The results demonstrate the effectiveness of imbalance-handling techniques while highlighting the challenges associated with minority-class classification in ECG arrhythmia datasets.
