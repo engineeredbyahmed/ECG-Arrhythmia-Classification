@@ -43,7 +43,7 @@ Due to licensing and file size considerations, the dataset is not included in th
 
 Medical datasets are often highly imbalanced.
 
-![class_distribution.png](figures/class_distribution.png)
+![class_distribution](figures/class_distribution.png)
 
 Techniques explored:
 
@@ -112,7 +112,7 @@ The model was evaluated using:
 
 ## Confusion Matrix
 
-![Confusion Matrix](figures/confusion_matrix.png)
+![Confusion_Matrix](figures/Confusion_Matrix.png)
 
 ---
 
