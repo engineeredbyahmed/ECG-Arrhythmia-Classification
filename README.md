@@ -139,10 +139,13 @@ ECG-Arrhythmia-Classification/
 ├── requirements.txt
 ├── figures/
 │   ├── confusion_matrix.png
-│   ├── loss_curve.png
+│   ├── loss_curves.png
+│   ├── PCA.png
+│   ├── System Pipeline.png
 │   └── class_distribution.png
 │
 └── results/
+    ├── ANN_model.h5
     └── classification_report.txt
 ```
 
