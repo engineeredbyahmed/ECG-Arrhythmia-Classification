@@ -1,4 +1,28 @@
-# ECG Arrhythmia Classification Using Deep Learning
+<h1 align="center">
+
+ECG Arrhythmia Classification
+
+</h1>
+
+<p align="center">
+
+Applying machine learning to automatically classify ECG heartbeats using the MIT-BIH Arrhythmia Dataset.
+
+</p>
+
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-DeepLearning-FF6F00?logo=tensorflow)
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-MachineLearning-F7931E?logo=scikitlearn)
+
+![Healthcare AI](https://img.shields.io/badge/Healthcare-AI-burgundy)
+
+![License](https://img.shields.io/badge/License-MIT-green)
+
+</p>
 
 ## Overview
 
