@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="images/banner.png" width="100%">
-</p>
-
 <h1 align="center">
 ECG Arrhythmia Classification
 </h1>
